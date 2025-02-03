@@ -1,0 +1,19 @@
+{
+  "name": "package_5f3",
+  "version": "1.0.1",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshitharayala/package_5f3.git"
+  },
+  "keywords": [
+    "demo",
+    "npm"
+  ],
+  "author": "akshitharayala",
+  "license": "ISC"
+}
